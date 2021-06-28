@@ -1,0 +1,1 @@
+2021-06-28 06:07:00 WARN  Menu:107 - Hey are you sure you want to delete a player
