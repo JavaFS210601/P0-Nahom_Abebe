@@ -1,3 +1,55 @@
 2021-06-28 05:50:42 INFO  Menu:48 - user selected all players
 2021-06-28 06:09:08 WARN  Menu:107 - Hey are you sure you want to delete a player
 2021-06-28 06:11:46 INFO  Menu:50 - user selected all players
+2021-06-28 11:23:52 INFO  Menu:50 - user selected all players
+2021-06-28 11:24:35 INFO  Menu:120 - Player entered the name
+2021-06-28 11:25:12 WARN  Menu:144 - Hello player check the answers bellow if your were attempt
+2021-06-28 12:05:30 INFO  Menu:50 - user selected all players
+2021-06-28 16:32:30 INFO  Menu:50 - user selected all players
+2021-06-28 16:36:53 INFO  Menu:50 - user selected all players
+2021-06-28 16:45:20 INFO  Menu:50 - user selected all players
+2021-06-28 16:47:13 INFO  Menu:50 - user selected all players
+2021-06-28 16:47:55 INFO  Menu:50 - user selected all players
+2021-06-28 17:03:54 INFO  Menu:119 - Player entered the name
+2021-06-28 17:09:46 INFO  Menu:119 - Player entered the name
+2021-06-28 17:10:54 INFO  Menu:119 - Player entered the name
+2021-06-28 17:18:02 INFO  Menu:119 - Player entered the name
+2021-06-28 17:19:58 INFO  Menu:119 - Player entered the name
+2021-06-28 17:20:47 WARN  Menu:178 - Hello player check the answers bellow if your were attempted
+2021-06-28 17:30:46 INFO  Menu:119 - Player entered the name
+2021-06-28 17:41:01 INFO  Menu:119 - Player entered the name
+2021-06-28 17:58:09 INFO  Menu:119 - Player entered the name
+2021-06-28 17:58:28 WARN  Menu:150 - Hello player check the answers bellow if your were attempted
+2021-06-28 18:10:24 INFO  Menu:119 - Player entered the name
+2021-06-28 18:10:40 WARN  Menu:150 - Hello player check the answers bellow if your were attempted
+2021-06-28 18:13:08 INFO  Menu:119 - Player entered the name
+2021-06-28 18:13:24 WARN  Menu:150 - Hello player check the answers bellow if your were attempted
+2021-06-28 18:24:45 INFO  Menu:119 - Player entered the name
+2021-06-28 18:25:02 WARN  Menu:150 - Hello player check the answers bellow if your were attempted
+2021-06-28 18:38:57 INFO  Menu:119 - Player entered the name
+2021-06-28 18:39:13 WARN  Menu:150 - Hello player check the answers bellow if your were attempted
+2021-06-28 18:43:49 INFO  Menu:119 - Player entered the name
+2021-06-28 18:44:05 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-28 18:50:54 INFO  Menu:119 - Player entered the name
+2021-06-28 18:51:01 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-28 18:52:46 INFO  Menu:119 - Player entered the name
+2021-06-28 18:52:58 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-28 18:56:28 INFO  Menu:119 - Player entered the name
+2021-06-28 18:56:41 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-28 18:58:12 INFO  Menu:119 - Player entered the name
+2021-06-28 18:58:32 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-28 19:00:53 INFO  Menu:121 - Player entered the name
+2021-06-28 19:01:05 WARN  Menu:142 - Hello player check the answers bellow if your were attempt
+2021-06-28 19:03:49 INFO  Menu:121 - Player entered the name
+2021-06-28 19:04:05 WARN  Menu:142 - Hello player check the answers bellow if your were attempt
+2021-06-28 19:06:10 INFO  Menu:121 - Player entered the name
+2021-06-28 19:11:13 INFO  Menu:121 - Player entered the name
+2021-06-28 19:16:19 INFO  Menu:121 - Player entered the name
+2021-06-28 19:21:01 INFO  Menu:121 - Player entered the name
+2021-06-28 19:21:20 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-29 08:24:06 INFO  Menu:121 - Player entered the name
+2021-06-29 08:24:33 WARN  Menu:143 - Hello player check the answers bellow if your were attempt
+2021-06-29 08:29:25 INFO  Menu:121 - Player entered the name
+2021-06-29 08:31:13 INFO  Menu:121 - Player entered the name
+2021-06-29 08:36:08 INFO  Menu:121 - Player entered the name
+2021-06-29 08:37:37 WARN  Menu:164 - Hello player check the answers bellow if your were attempt
