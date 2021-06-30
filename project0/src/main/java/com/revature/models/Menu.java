@@ -52,12 +52,21 @@ public class Menu {
 				List<Player> players = astr.getPlayers();
 
 				// Print out each Employee from the List one by one for the user to see
+				
+//				for (Player e : players) {
+//					System.out.println(e);
+//
+//					break;
+//				}
+				
+				
 				for (Player e : players) {
 					System.out.println(
-							e.getPlayer_id() + ")" + e.getF_name() + ")" + e.getL_name() + ")" + e.getBirth_date());
+							e.getPlayer_id() + " " + e.getF_name() + " " + e.getL_name() + " " + e.getBirth_date());
 
-					break;
+					
 				}
+				break;
 			}
 			case "Add": {
 

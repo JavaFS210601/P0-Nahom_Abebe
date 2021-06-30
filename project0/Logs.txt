@@ -53,3 +53,16 @@
 2021-06-29 08:31:13 INFO  Menu:121 - Player entered the name
 2021-06-29 08:36:08 INFO  Menu:121 - Player entered the name
 2021-06-29 08:37:37 WARN  Menu:164 - Hello player check the answers bellow if your were attempt
+2021-06-29 16:45:28 INFO  Menu:46 - user selected all players
+2021-06-29 16:46:39 INFO  Menu:46 - user selected all players
+2021-06-29 16:53:51 INFO  Menu:46 - user selected all players
+2021-06-29 16:54:33 WARN  Menu:108 - Hey are you sure you want to delete a player
+2021-06-29 17:07:22 INFO  Menu:46 - user selected all players
+2021-06-29 17:08:00 INFO  Menu:46 - user selected all players
+2021-06-29 17:10:20 INFO  Menu:46 - user selected all players
+2021-06-29 17:12:16 WARN  Menu:116 - Hey are you sure you want to delete a player
+2021-06-29 17:16:25 INFO  Menu:46 - user selected all players
+2021-06-29 17:18:14 INFO  Menu:46 - user selected all players
+2021-06-29 17:19:35 INFO  Menu:46 - user selected all players
+2021-06-29 17:20:45 INFO  Menu:46 - user selected all players
+2021-06-29 17:23:32 INFO  Menu:46 - user selected all players
