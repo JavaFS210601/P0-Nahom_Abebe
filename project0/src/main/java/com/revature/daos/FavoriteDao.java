@@ -164,12 +164,12 @@ public class FavoriteDao implements PlayerDaoInterface {
 				Favorite fovorites = new Favorite(rs.getInt("favorite_id"), rs.getString("my_day"), rs.getString("my_color"),
 						rs.getString("my_month"));
 
-// add the newly created player object into the ArrayList of Employees
+// add the newly created player object into the ArrayList of players
 				favoriteList.add(fovorites);
 
 			}
 
-			return favoriteList; // Finally, if successful, return the List of Employees
+			return favoriteList; // Finally, if successful, return the List of players
 
 		} catch (SQLException e) { // if something goes wrong accessing our data, it will get caught
 			System.out.println("Something went wrong when trying to access your DB");

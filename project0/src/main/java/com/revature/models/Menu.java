@@ -33,8 +33,8 @@ public class Menu {
 			System.out.println("Players -> show all player");
 			System.out.println("Add -> add a new player ");
 			System.out.println("Delete player -> Terminate a player");
-			System.out.println("Favorite -> show Favorite");
-			System.out.println("exit the program -> exit the application");
+			System.out.println("Start game -> show Favorite");
+			System.out.println("exit -> exit the application");
 
 			String input = scan.nextLine();
 
@@ -70,9 +70,8 @@ public class Menu {
 			}
 			case "Add": {
 
-				// we need to prompt the user for the employee's name, and their role id
-				// we'll have to come up with some functionality to get the current date for the
-				// hire_date field
+				// we need to prompt the user for the players's name, and their role id
+				
 				System.out.println("Enter playerId: ");
 				int player_Id = scan.nextInt();
 				scan.nextLine();
@@ -89,7 +88,7 @@ public class Menu {
 
 				// Given all this information, we'll create a new player object to send to a DAO
 				// method
-				// This is using the all-args minus employee_id constructor
+				
 				Player newPlayer = new Player(player_Id, f_name, l_name, "xxxx-xx-xx"); // placeholder for hire_date,
 																						// will be changed
 
@@ -103,10 +102,10 @@ public class Menu {
 
 				System.out.println("These are the players on the roster... who will you terminate?");
 
-				// this is using the already existing getEmployees() method
+				// this is using the already existing getPlayer() method
 				List<Player> players = astr.getPlayers();
 
-				// Print out each Employee from the List one by one for the user to see
+				// Print out each player from the List one by one for the user to see
 				for (Player e : players) {
 					System.out.println(e);
 				}
@@ -123,7 +122,7 @@ public class Menu {
 				break;
 			}
 
-			case "Favorite": {
+			case "Start game": {
 				System.out.println("Please enter your name");
 				String fName = scan.nextLine();
 
@@ -185,7 +184,7 @@ public class Menu {
 			}
 
 			case "exit": {
-				System.out.println("byeeee");
+				System.out.println("Have a good one. Please come back and play again!");
 				displayMenu = false;
 				break;
 			}
